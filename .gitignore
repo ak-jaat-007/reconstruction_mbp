@@ -1,0 +1,20 @@
+# build outputs
+*.o
+*.obj
+*.pdb
+*.ilk
+*.log
+
+# program outputs
+mbp.csv
+
+# input data (keep tiny sample only)
+mbo.csv
+
+# editor/OS clutter
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
